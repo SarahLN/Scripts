@@ -3,5 +3,5 @@ This repository is a home for the random scripts I create to help make my job ea
 
 <h3>Inventory</h3>
 <ul>
-  <li>pingIPs.ps1</li>
+  <li><a href="https://github.com/skielle/Scripts/blob/master/pingIPs.ps1">pingIPs.ps1</a></li>
 </ul>
